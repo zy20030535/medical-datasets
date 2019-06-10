@@ -64,6 +64,11 @@ Part of a [challenge](http://fastmri.org/)
 2000+ CT & MR images of various organs from different sources  
 **Keywords**: medium, MRI, segmentations  
 
+### [Brain MRI LGG FLAIR abnormality segmentation](https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation)
+Brain MRI images together with manual FLAIR abnormality segmentation masks  
+110 subjects from TCIA LGG collection with lower-grade glioma cases 
+**Keywords**: MRI, segmentations, LGG, FLAIR  
+
 ### [MRIdata](http://mridata.org/)
 List of mri k-space datasets  
 
